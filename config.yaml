@@ -1,0 +1,33 @@
+
+SPM:
+  path_to_csv: "fixed.csv"
+  identifier_column: "Identifier"
+  sequence_column: "Sequence"
+  sortby: "S-Support"
+  sliding_window_min: 1
+  sliding_window_max: 4
+  min_gap: 1
+  max_gap: 12
+  S_support_thresh: 0.4
+  I_support_thresh: 0
+  dataset_format: 0
+
+DSM:
+  path_to_csv_left: "fixed.csv"
+  path_to_csv_right: "growth.csv"
+  identifier_column: "Identifier"
+  sequence_column: "Sequence"
+  sortby: "S-Support"
+  sliding_window_min: 1
+  sliding_window_max: 1
+  min_gap: 1
+  max_gap: 12
+  S_support_thresh: 0.4
+  I_support_thresh: 0
+  threshold_pvalue: 0.1
+  dataset_format: 0
+  test_type: "ttest_ind"
+  
+dsm_result_path: "/home/vivek.trivedi/ET623_project/dsm_result.csv"
+spm_result_path: "/home/vivek.trivedi/ET623_project/spm_result.csv"
+occurrence_matrix_path: "/home/vivek.trivedi/ET623_project/occurrence_matrix.csv"
