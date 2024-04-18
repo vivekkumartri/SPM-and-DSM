@@ -1,4 +1,6 @@
 # Course Project README
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivekkumartri/SPM-and-DSM/blob/main/demo.ipynb)
+[![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-blue)](https://huggingface.co/spaces/vivek9/ET_623_Project)
 
 ## Overview
 
