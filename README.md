@@ -1,7 +1,7 @@
 ![Project Logo](demo_interface.png)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivekkumartri/SPM-and-DSM/blob/main/demo.ipynb)
-[![Gradio](https://img.shields.io/badge/Gradio-Enabled-brightgreen)]
 [![Hugging Face Demo](https://img.shields.io/badge/Hugging%20Face-Demo-blue)](https://huggingface.co/spaces/vivek9/ET_623_Project)
+![Gradio](https://img.shields.io/badge/Gradio-Enabled-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.7%20|%203.8%20|%203.9-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ## Overview
