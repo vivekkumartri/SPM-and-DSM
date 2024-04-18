@@ -23,7 +23,7 @@ You can customize the behavior of the Sequential Pattern Mining (SPM) and Differ
 
 ### SPM Configuration
 
-\`\`\`yaml
+```yaml
 SPM:
   path_to_csv: "fixed.csv"
   identifier_column: "Identifier"
@@ -36,7 +36,6 @@ SPM:
   S_support_thresh: 0.4
   I_support_thresh: 0
   dataset_format: 0
-\`\`\`
 
 ### DSM Configuration
 
