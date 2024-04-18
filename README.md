@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivekkumartri/SPM-and-DSM/blob/main/demo.ipynb)
-[![gradio-backend](https://github.com/gradio-app/gradio/actions/workflows/backend.yml/badge.svg)](https://huggingface.co/spaces/vivek9/ET_623_Project)
+[![Gradio](https://img.shields.io/badge/Gradio-Enabled-brightgreen)](https://huggingface.co/spaces/vivek9/ET_623_Project)
 [![Python](https://img.shields.io/badge/Python-3.7%20|%203.8%20|%203.9-blue)]
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)]
 ## Overview
